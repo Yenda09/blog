@@ -211,3 +211,12 @@ footer{
 .icons_section h3,p{
     margin-bottom: 10px;
 }
+
+/* Profile */
+
+.profile_container{
+    width: 290px;
+    margin: 0 auto;
+    padding-top: 10px;
+    background-color: var(--secondary_color);
+}
